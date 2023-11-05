@@ -5,7 +5,7 @@ This is a project with a Nextjs app for frontend and rendering, and a Flask pyth
 
 All commands should be run on bash.
 
-First, cd to the Flask directory, then run "pipenv shell" and "pipenv install" to run a pipenv shell in a virtual environment and install python dependencies. Then, run "pipenv run python -m spacy download en_core_web_md".
+First, cd to the Flask directory, then run "pip install pipenv", then run "pipenv shell" and "pipenv install" to run a pipenv shell in a virtual environment and install python dependencies. Then, run "pipenv run python -m spacy download en_core_web_md".
 Then, run "./start.sh" to start the development server for the Flask API at port 5000.
 
 
@@ -21,3 +21,6 @@ Due to severe time constraints, we were not able to fully complete and integrate
 The nextjs app uses dummy data for now. But like, its basically close to being complete. woohooooosaodmA:SkdmA:sdkmdasdm
 
 penguin
+
+
+
