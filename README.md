@@ -1,4 +1,4 @@
-This is a project with a Nextjs app for frontend and rendering, and a Flask python API that handles some backend services related to text analysis. You must run both servers.
+This is a project with a Nextjs app for frontend and rendering, and a Flask python API that handles some backend services related to text analysis. You must run both development servers.
 
 
 ## Getting Started
